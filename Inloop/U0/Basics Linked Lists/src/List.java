@@ -40,7 +40,7 @@ public class List {
                 //System.out.println(string + " entfernt");
             }
 
-            // If key was not present in linked list
+
             if (temp == null) {
                 //System.out.println("Element nicht in der Liste");
                 return null;
