@@ -2,7 +2,214 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="313f0176-df08-4f46-8b2c-9c996e6e6c55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Inloop/U0/Basics Linked Lists/src/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Inloop/U0/Basics Linked Lists/src/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/README.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/cpl-v10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/Changes34.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/JUnitProperties.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/changes21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/cookbook/IMG00001.GIF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/cookbook/cookbook.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/cookbook/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/cookstour/Image1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/cookstour/Image2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/cookstour/Image3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/cookstour/Image4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/cookstour/Image5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/cookstour/Image6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/cookstour/Image7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/cookstour/cookstour.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/faq/faq.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/testinfected/IMG00001.GIF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/testinfected/IMG00002.GIF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/testinfected/IMG00003.GIF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/testinfected/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/doc/testinfected/testing.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/extensions/ActiveTestSuite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/extensions/ExceptionTestCase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/extensions/RepeatedTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/extensions/TestDecorator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/extensions/TestSetup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/extensions/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/extensions/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/extensions/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/framework/Assert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/framework/AssertionFailedError.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/framework/ComparisonCompactor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/framework/ComparisonFailure.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/framework/Protectable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/framework/Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/framework/TestCase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/framework/TestFailure.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/framework/TestListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/framework/TestResult.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/framework/TestSuite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/framework/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/framework/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/junit/framework/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/overview-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/overview-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/packages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/resources/inherit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/serialized-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/javadoc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/samples/AllTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/samples/AllTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/samples/SimpleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/samples/SimpleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/samples/VectorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/samples/VectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/samples/money/IMoney.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/samples/money/IMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/samples/money/Money.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/samples/money/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/samples/money/MoneyBag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/samples/money/MoneyBag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/samples/money/MoneyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/samples/money/MoneyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/AllTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/AllTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/WasRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/WasRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ActiveTestTest$SuccessTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ActiveTestTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ActiveTestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/AllTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/AllTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ExceptionTestCaseTest$ThrowExceptionTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ExceptionTestCaseTest$ThrowNoExceptionTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ExceptionTestCaseTest$ThrowRuntimeExceptionTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ExceptionTestCaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ExceptionTestCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ExtensionTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ExtensionTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ExtensionTest$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ExtensionTest$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ExtensionTest$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ExtensionTest$TornDown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ExtensionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/ExtensionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/RepeatedTestTest$SuccessTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/RepeatedTestTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/extensions/RepeatedTestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/AllTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/AllTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/AssertTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/AssertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/ComparisonCompactorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/ComparisonCompactorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/ComparisonFailureTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/ComparisonFailureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/DoublePrecisionAssertTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/DoublePrecisionAssertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/Failure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/Failure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/InheritedTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/InheritedTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/NoArgTestCaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/NoArgTestCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/NoTestCaseClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/NoTestCaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/NoTestCases.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/NoTestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/NotPublicTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/NotPublicTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/NotVoidTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/NotVoidTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/OneTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/OneTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/OverrideTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/OverrideTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/Success.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/Success.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/SuiteTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/SuiteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestCaseTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestCaseTest$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestCaseTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestCaseTest$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestCaseTest$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestCaseTest$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestCaseTest$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestCaseTest$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestCaseTest$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestCaseTest$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestCaseTest$TornDown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestCaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestImplementorTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestImplementorTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestImplementorTest$DoubleTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestImplementorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestImplementorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestListenerTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestListenerTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestListenerTest$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestListenerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/framework/TestListenerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/AllTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/AllTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/BaseTestRunnerTest$MockRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/BaseTestRunnerTest$NonStatic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/BaseTestRunnerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/BaseTestRunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/ClassLoaderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/ClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/LoadedFromJar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/LoadedFromJar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/SimpleTestCollectorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/SimpleTestCollectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/SorterTest$Swapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/SorterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/SorterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/StackFilterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/StackFilterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TestCaseClassLoaderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TestCaseClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextFeedbackTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextFeedbackTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextFeedbackTest$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextFeedbackTest$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextFeedbackTest$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextFeedbackTest$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextFeedbackTest$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextFeedbackTest$TestResultPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextFeedbackTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextFeedbackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextRunnerSingleMethodTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextRunnerSingleMethodTest$InvocationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextRunnerSingleMethodTest$NullResultPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextRunnerSingleMethodTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextRunnerSingleMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextRunnerTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextRunnerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/TextRunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/junit/tests/runner/test.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit3.8.2/src.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Koenigreich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/einwohner/Adel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/einwohner/Bauer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/einwohner/Einwohner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/einwohner/Koenig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/einwohner/Leibeigener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/AlleTestsKoenigreich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/TestAdel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/TestEinwohner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/TestLeibeigener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/U3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/U3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,23 +224,113 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/einwohner/Einwohner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/TestEinwohner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/TestAdel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/AlleTestsKoenigreich.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="66" lean-forward="true" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/TestLeibeigener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Koenigreich.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/junit3.8.2</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="960" />
-    <option name="height" value="1040" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tests/TestEinwohner.java" />
+        <option value="$PROJECT_DIR$/test/TestEinwohner.java" />
+        <option value="$PROJECT_DIR$/src/test/TestEinwohner.java" />
+        <option value="$PROJECT_DIR$/src/test/TestAdel.java" />
+        <option value="$PROJECT_DIR$/src/einwohner/Einwohner.java" />
+        <option value="$PROJECT_DIR$/src/test/TestLeibeigener.java" />
+        <option value="$PROJECT_DIR$/src/test/AlleTestsKoenigreich.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="959" />
+    <option name="height" value="1037" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -41,7 +338,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -49,17 +345,58 @@
               <item name="U3" type="b2602c69:ProjectViewProjectNode" />
               <item name="U3" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="U3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="U3" type="462c0819:PsiDirectoryNode" />
+              <item name="junit3.8.2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="U3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="U3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="U3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="U3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="einwohner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="U3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="U3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Programmierung/Woche2" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555490873222" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -73,7 +410,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AlleTestsKoenigreich">
+    <configuration name="AlleTestsKoenigreich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.AlleTestsKoenigreich" />
+      <module name="U3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Koenigreich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Koenigreich" />
+      <module name="U3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="U3" />
@@ -84,6 +441,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AlleTestsKoenigreich" />
+        <item itemvalue="Application.Koenigreich" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -96,55 +460,196 @@
       <option name="presentableId" value="Default" />
       <updated>1555426227841</updated>
       <workItem from="1555426230707" duration="767000" />
+      <workItem from="1555437906119" duration="61000" />
+      <workItem from="1555487079455" duration="3711000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="767000" />
+    <option name="totallyTimeSpent" value="4539000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
+    <frame x="0" y="-1" width="1920" height="1040" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12593383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32969433" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32969433" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32969433" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Koenigreich.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestEinwohner">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/TestEinwohner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/TestAdel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/einwohner/Einwohner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/TestLeibeigener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/AlleTestsKoenigreich.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="66" lean-forward="true" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>U3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit:junit:3.8.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
