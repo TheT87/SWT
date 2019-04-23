@@ -12,8 +12,8 @@ public class Main {
 
 
         list.printList();
-        list.remove("5");
-        list.remove("7");
+        list.remove("3");
+
         System.out.println(" ");
         list.printList();
 

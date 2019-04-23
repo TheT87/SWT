@@ -4,22 +4,22 @@ public class Koenigreich {
 
 	public static void main(String[] args) {
 
-		steuerbescheid(new Koenig(), 20);
-        steuerbescheid(new Adel(), 20);
-        steuerbescheid(new Bauer(), 20);
-        steuerbescheid(new Leibeigener(), 20);
+		steuerbescheid(new King(), 20);
+        steuerbescheid(new Noble(), 20);
+        steuerbescheid(new Peasant(), 20);
+        steuerbescheid(new Serf(), 20);
 	}
 
 
 
 
-	static void steuerbescheid(Einwohner einwohner, int einkommen) {
-        einwohner.setEinkommen(einkommen);
-        System.out.println(einwohner.getClass().getName() +
-           ": Einkommen " + einkommen +
+	static void steuerbescheid(Inhabitant inhabitant, int Income) {
+        inhabitant.setIncome(Income);
+        System.out.println(inhabitant.getClass().getName() +
+           ": Einkommen " + Income +
            ", zu versteuerndes Einkommen " +
-           einwohner.zuVersteuerndesEinkommen() +
-           ", Steuer " + einwohner.steuer());
+           inhabitant.taxableIncome() +
+           ", Steuer " + inhabitant.tax());
 
     }
 }

@@ -12,7 +12,7 @@ public class TestAdel extends TestCase {
         adel = new Adel();
     }
 
-    public void A1(){
+    public void testA1(){
         adel.setEinkommen(19);
         assertEquals(20,adel.steuer());
     }

@@ -2,8 +2,8 @@ import org.w3c.dom.Node;
 
 public class ListElement{
 
-    String content;
-    ListElement next;
+    private String content;
+    private ListElement next;
     ListElement(String c){
         setContent(c);
         content = c;

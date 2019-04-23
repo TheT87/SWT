@@ -11,10 +11,10 @@ public class List {
         }
         new_ListElement.setNext(null);
         ListElement test = head;
-        while (test.next!=null){
-            test = test.next;
+        while (test.getNext()!=null){
+            test = test.getNext();
         }
-        test.next = new_ListElement;
+        test.setNext(new_ListElement);
         i++;
         return ;
 
@@ -26,26 +26,25 @@ public class List {
     public String remove(String string) {
             ListElement temp = head, prev = null;
 
-            if (temp != null && temp.content.contentEquals(string) ) {
-                head = temp.next;
-                System.out.println(string + " entfernt");
-
+            if (temp != null && temp.getContent().equals(string) ) {
+                head = temp.getNext();
                 return string;
             }
 
-            while (temp != null && !temp.content.contentEquals(string)) {
+            while (temp != null && !temp.getContent().equals(string)) {
                 prev = temp;
-                temp = temp.next;
+                temp = temp.getNext();
 
-                //System.out.println(string + " entfernt");
+
             }
 
 
             if (temp == null) {
-                //System.out.println("Element nicht in der Liste");
+                System.out.println(string + " nicht in der Liste");
                 return null;
             }
-        prev.next = temp.next;
+        prev.setNext(temp.getNext());
+        System.out.println(string + " entfernt");
         return string;
     }
 
@@ -57,8 +56,8 @@ public class List {
             System.out.println("Liste leer!");
         while (element != null)
         {
-            System.out.println("Element: " + element.content + " ");
-            element = element.next;
+            System.out.println("Element: " + element.getContent()+ " ");
+            element = element.getNext();
         }
     }
 }
