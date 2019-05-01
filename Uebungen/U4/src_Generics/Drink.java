@@ -1,2 +1,2 @@
-public class Drink {
+abstract class Drink {
 }

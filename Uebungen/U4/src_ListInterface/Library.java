@@ -1,15 +1,8 @@
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Collection;
-import java.util.Collections;
+import java.util.*;
 
 
 public class Library {
-    private List<Book> stock;
-
-    public Library() {
-        stock = new ArrayList<Book>();
-    }
+    private List<Book> stock = new ArrayList<Book>() ;
 
     public void setStock(List<Book> stock) {
         this.stock = stock;
@@ -24,14 +17,17 @@ public class Library {
         Collections.sort(stock);
     }
 
-    public Book searchForISBN(String isbn) {
+    public Book searchForIsbn(String isbn) {
+        Objects.requireNonNull(isbn);
         int index = Collections.binarySearch(stock, new Book(isbn));
-        if (index < 0)
+        if (index < 0) {
             return null;
+        }
         return stock.get(index);
     }
 
-    public Collection<Book> searchForAutor(String author) {
+    public Collection<Book> searchForAuthor(String author) {
+        Objects.requireNonNull(author);
         Collection<Book> result = new ArrayList<Book>();
         for (Book b : stock) {
             if (b.getAuthor().equals(author)) {
@@ -41,18 +37,6 @@ public class Library {
         return result;
 
     }
-
-
-
-
-}
-
-
-
-
-
-
-
 
 
 
